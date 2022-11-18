@@ -40,7 +40,9 @@ Graph controls:
 			    [S] - zoom out
 
 Change colors - [C]
+
 Save Graph      - [R]
+
 Exit		[ENTER]
 
 click anywhere within graph area will cause the graph to be re-plotted with vertical white dashed line at the mouse pointer. Values for every parameter on the 
