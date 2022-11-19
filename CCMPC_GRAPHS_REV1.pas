@@ -390,15 +390,6 @@ begin
 
 end.
 
-{
-               to do list:
 
-               1. time obtained at mouse position and displayed along with parameters - DONE
-               2. moving average function implementation                              - DONE
-               3. timeline displayed?
-               4. zoom in/out fixed                                                   - DONE
-               5. graph save added
-
-               }
 
 
