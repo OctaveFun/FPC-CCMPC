@@ -48,11 +48,11 @@ Exit		[ENTER]
 click anywhere within graph area will cause the graph to be re-plotted with vertical white dashed line at the mouse pointer. Values for every parameter on the 
 graph will be displayed, along with time signature on the right bottom of the graph.
 
-If you want to explore certain area of graph in more detail, drad mouse pointer with left button pressed across the area. Graph will zoom in to area between click and release.
+If you want to explore certain area of graph in more detail, drag mouse pointer with left button pressed across the area, from left to right. Graph will zoom in to area between click and release.
 Pressing right mouse button will take you back to original size of graph.
 
 Graph save functionality is very rudimental. It relies on FPC generating random number, which is added to generic name 'Graph', Graph54, Graph31 ... etc. 
 Image is saved in bitmap format in same directory where logs are. Please rename images immediately after, or they will be re-written at next run of the application.
-I provided a few example logs for different engines. Any file with .txt extension (except this one ) is engine log.
+I provided a few example logs for different engines. Any file with .txt extension in this repository (except this one ) is engine log.
 
 Have Fun!
