@@ -1,0 +1,4 @@
+Updates to REV1_2
+
+added free-running marker which follows the mouse pointer. Time is updated as marker moves across the graph. All values for this particular time instance are also updated and displayed. 
+Also added a "Schleifen", trail left on the screen from dragging marker with left mouse button pressed. This gives a better visual representation of an area being zoomed in to.
