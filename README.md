@@ -1,7 +1,7 @@
 # FPC-CCMPC
 
 CCMPC graph plotting tool
-Graph plotter browse and opens logs obtained through CCMPC software. Logs are text files (".TXT") containing data in comuns, where each column represent diesel engine 
+Graph plotter browse and opens logs obtained through CCMPC software. Logs are text files (".TXT") containing data in columns, where each column represent diesel engine 
 parameter(do not mix with software "engine"), parameters like engine speed, exhaust gas temperature, boost pressure etc.
 
 For graph plotter to work correctly, log files must be located in dedicated folder:
